@@ -1,5 +1,5 @@
 FROM ubuntu
-MAINTAINER Kimbro Staken
+MAINTAINER Soumya Ranjan
 
 RUN apt-get install -y software-properties-common python
 RUN add-apt-repository ppa:chris-lea/node.js

@@ -27,7 +27,7 @@
 #    connecting you to an already running container.
 
 FROM ubuntu
-MAINTAINER Kimbro Staken
+MAINTAINER Soumya Ranjan
 
 RUN echo "0.2" > /version
 

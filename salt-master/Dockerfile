@@ -1,5 +1,5 @@
 FROM ubuntu
-MAINTAINER Kimbro Staken
+MAINTAINER Soumya Ranjan
 
 RUN echo "deb http://archive.ubuntu.com/ubuntu precise main universe" > /etc/apt/sources.list
 RUN apt-get update
